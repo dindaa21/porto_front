@@ -13,11 +13,11 @@
     </div>
 </div>
 
-<div class="d-flex justify-content-around">           
+<div class="d-flex justify-content-around align-items-center" style="background-color: #ffb7e9">           
   <div>
-    <img src="{{ asset('images/selfie.jpg') }}" alt="" class="img" width="600">
+    <img src="{{ asset('images/selfie.jpg') }}" alt="" class="img" width="500">
   </div>
-  <div class="container row align-items-center" style="background-color: #ffb7e9">
+  <div class="container row" >
     <div class="col-12 shadow-lg pt-3 pb-3 bg-secondary rounded">
       <div class="card">
         <div class="card-body">
